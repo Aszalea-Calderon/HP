@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 body{
   background-color: #99B2DD;
 }
@@ -7,4 +9,10 @@ canvas{
   margin:0 auto;
   border: solid 6px black;
   
+}
+h1{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-family: 'Staatliches', cursive;
 }
